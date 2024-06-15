@@ -2,6 +2,5 @@ tomcat
 mysql
 influxdb
 emqx
-jdk
 nginx
 redis
