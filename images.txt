@@ -4,3 +4,4 @@ influxdb
 emqx
 nginx
 redis
+rabbitmq
