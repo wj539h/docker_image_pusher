@@ -5,3 +5,4 @@ emqx
 nginx
 redis
 rabbitmq
+centos7
