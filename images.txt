@@ -6,3 +6,4 @@ nginx
 redis
 rabbitmq
 centos
+centos:8
