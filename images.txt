@@ -5,5 +5,5 @@ emqx
 nginx
 redis
 rabbitmq
-centos
+centos:7
 centos:8
