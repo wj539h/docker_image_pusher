@@ -8,3 +8,4 @@ rabbitmq
 centos:7
 busybox
 rockylinux:9
+rockylinux:8
