@@ -7,3 +7,4 @@ redis
 rabbitmq
 centos:7
 busybox
+rockylinux
