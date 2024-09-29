@@ -6,4 +6,4 @@ nginx
 redis
 rabbitmq
 centos:7
-centos:8
+busybox
